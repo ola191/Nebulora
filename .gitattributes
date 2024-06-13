@@ -1,4 +1,5 @@
 *.meta linguist-vendored
 *.asset linguist-vendored
 *.unity linguist-vendored
+*.csproj linguist-vendored
 *.cs linguist-vendored=false
