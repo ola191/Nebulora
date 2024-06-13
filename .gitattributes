@@ -1,4 +1,2 @@
-*.meta linguist-vendored=true
-*.asset linguist-vendored=true
-*.unity linguist-vendored=true
+
 *.cs linguist-vendored=false
