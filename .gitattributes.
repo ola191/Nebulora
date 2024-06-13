@@ -1,4 +1,2 @@
-
-*.meta language-detectable
-*.asset language-detectable
- 
+* linguist-vendored
+*.cs linguist-vendored=false
