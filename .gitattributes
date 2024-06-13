@@ -1,2 +1,3 @@
-*.ShaderLab linguist-detectable=false
-*.HLSL linguist-detectable=false
+*.ShaderLab linguist-vendored
+*.HLSL linguist-vendored
+*.C# linguist-vendored=false
