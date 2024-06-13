@@ -1,4 +1,3 @@
-*.shaderlab llinguist-detectable=false
-*.hlsl linguist-detectable=false
-*.cs linguist-detectable=true
+*.shaderlab language-detectable
+*.hlsl language-detectable
  
