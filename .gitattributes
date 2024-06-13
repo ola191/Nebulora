@@ -1,3 +1,6 @@
 *.shaderlab language-detectable
 *.hlsl language-detectable
  
+*.meta language-detectable
+*.asset language-detectable
+ 
